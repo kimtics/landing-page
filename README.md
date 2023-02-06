@@ -1,4 +1,4 @@
-# landing-page
+# README
 My landing page design inspiration is a website of E-sports roster, the pictures I have used are royalty-free and with permission.
 
 -------------------------------------------------------------------
